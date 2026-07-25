@@ -12,14 +12,13 @@ class Stack:
         return self.elements.pop()
 
     def peek(self) -> list:
-        return self.elements[::-1]
+        return self.elements[-1]
 
     def size(self) -> int:
         return len(self.elements)
 
     def __str__(self) -> None:
-        for i in reversed(self.elements):
-            print(f"|{i}|")
+        return f"{list(reversed(self.elements))}"
 
 if __name__ == '__main__':
     
@@ -31,4 +30,5 @@ if __name__ == '__main__':
     print(stack)
     stack.pop()
     print(stack)
-    
+    print(stack.peek())
+    print(stack.size())

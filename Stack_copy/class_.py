@@ -14,7 +14,7 @@ class Stack:
         return self.elements.pop()
 
     def peek(self) -> list:
-        return self.elements[::-1]
+        return self.elements[-1]
 
     def size(self) -> int:
         return self.num_elements
