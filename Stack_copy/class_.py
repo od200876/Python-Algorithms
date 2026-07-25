@@ -19,9 +19,9 @@ class Stack:
     def size(self) -> int:
         return self.num_elements
 
-    def __str__(self) -> None:
-        for i in reversed(self.elements):
-            print(f"|{i}|")
+    def __str__(self) -> str:
+        return f"{list(reversed(self.elements))}"
+
 
 if __name__ == '__main__':
     
