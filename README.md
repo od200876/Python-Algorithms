@@ -33,17 +33,7 @@ python3 Stack/class_.py
 ## 📋 Algorithm list (in progress)
 
 - [x] Stack
-- [ ] Queue
-- [ ] Bubble Sort
-- [ ] Quick Sort
-- [ ] Merge Sort
-- [ ] Binary Search
-- [ ] Singly Linked List
-- [ ] Doubly Linked List
-- [ ] Binary Tree Traversal
-- [ ] BFS / DFS
-- [ ] Dijkstra's Algorithm
-- [ ] Dynamic Programming (Fibonacci, Knapsack, ...)
+- [x] Queue
 
 *(check items off as they get implemented)*
 
