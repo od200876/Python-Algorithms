@@ -4,14 +4,17 @@ Python implementations of 50 fundamental algorithms every programmer should know
 
 ## 🎯 Goal
 
-This repo is where I practice and consolidate my understanding of classic algorithms by implementing them myself, with tests and clear explanations.
+This repositorie is where I practice and consolidate my understanding of classic algorithms by implementing them myself, with tests and clear explanations.
 
 ## 📂 Project structure
 
 ```
 Python-Algorithms/
+├── Linked List/         
 ├── Stack/              # Stack (LIFO)
 ├── Queue/              # Queue (FIFO)
+├── sorting_searching/
+├── Tree/
 └── README.md
 ```
 
@@ -31,9 +34,11 @@ python3 Stack/class_.py
 ```
 
 ## 📋 Algorithm list (in progress)
-
+- [x] Linked List
 - [x] Stack
 - [x] Queue
+- [x] Sorting and Searching
+- [x] Tree
 
 *(check items off as they get implemented)*
 
