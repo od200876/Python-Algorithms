@@ -4,7 +4,7 @@ Python implementations of 50 fundamental algorithms every programmer should know
 
 ## 🎯 Goal
 
-This repositorie is where I practice and consolidate my understanding of classic algorithms by implementing them myself, with tests and clear explanations.
+This repository is where I practice and consolidate my understanding of classic algorithms by implementing them myself, with tests and clear explanations.
 
 ## 📂 Project structure
 
@@ -40,7 +40,6 @@ python3 Stack/class_.py
 - [x] Sorting and Searching
 - [x] Tree
 
-*(check items off as they get implemented)*
 
 ## 🛠️ Requirements
 
