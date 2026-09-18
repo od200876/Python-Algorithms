@@ -16,6 +16,8 @@ Python-Algorithms/
 ├── Queue/              # Queue (FIFO)
 ├── sorting_searching/
 ├── Tree/
+├── Numpy/
+├── Pandas/
 └── README.md
 ```
 
@@ -40,6 +42,8 @@ python3 Stack/class_.py
 - [x] Queue
 - [x] Sorting and Searching
 - [x] Tree
+- [x] Numpy
+- [x] Pandas
 
 
 ## 🛠️ Requirements
